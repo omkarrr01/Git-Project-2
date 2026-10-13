@@ -1,3 +1,5 @@
+# JS
+
 // Program to add two numbers
 
 let a = 10;
